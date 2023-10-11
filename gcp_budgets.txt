@@ -1,0 +1,22 @@
+C:\Program Files (x86)\Google\Cloud SDK>gcloud billing budgets create --billing-account=01A9A7-7DF39B-208967 --display-name=first_budget' --budget-amount=100
+API [billingbudgets.googleapis.com] not enabled on project [predictive-host-401610]. Would you like to enable and retry (this will take a few minutes)? (y/N)?  y
+
+Enabling service [billingbudgets.googleapis.com] on project [predictive-host-401610]...
+Operation "operations/acat.p2-903151468777-2a6e730b-cba2-4ba5-8640-c88e54b679fa" finished successfully.
+Created [4a7f2839-8574-498e-a949-bba11f710f41].
+
+C:\Program Files (x86)\Google\Cloud SDK>gcloud billing budgets list --billing-account=01A9A7-7DF39B-208967
+---
+amount:
+  specifiedAmount:
+    currencyCode: PLN
+    units: '100'
+budgetFilter:
+  calendarPeriod: MONTH
+  creditTypesTreatment: INCLUDE_ALL_CREDITS
+displayName: first_budget'
+etag: '1697023786283999'
+name: billingAccounts/01A9A7-7DF39B-208967/budgets/4a7f2839-8574-498e-a949-bba11f710f41
+notificationsRule: {}
+
+C:\Program Files (x86)\Google\Cloud SDK>
