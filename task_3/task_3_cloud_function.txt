@@ -1,0 +1,1 @@
+https://europe-central2-predictive-host-401610.cloudfunctions.net/function-1
