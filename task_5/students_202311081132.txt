@@ -1,0 +1,23 @@
+|student_id|firstname|lastname   |email                         |city    |class_id|age|
+|----------|---------|-----------|------------------------------|--------|--------|---|
+|1         |Agata    |Kin        |agatakin92@gmail.com          |Poznań  |1       |28 |
+|2         |Bertram  |Adamiak    |bertram.adamiak@yahoo.com     |Poznań  |1       |30 |
+|3         |Rachela  |Kosowska   |rachela.kosowska@gmail.com    |Poznań  |1       |28 |
+|4         |Damian   |Laskowski  |damian.laskowski@gmail.com    |Poznań  |1       |30 |
+|5         |Aurora   |Zielonka   |aurora.zielonka@yahoo.com     |Poznań  |2       |30 |
+|6         |Alan     |Drozdowski |alan.drozdowski@gmail.com     |Poznań  |2       |30 |
+|7         |Brygida  |Szczepańska|brygida.szczepanska@gmail.com |Warszawa|3       |32 |
+|8         |Angela   |Kuś        |angela.kus@hotmail.com        |Warszawa|3       |28 |
+|9         |Korneli  |Kujawa     |korneli.kujawa@gmail.com      |Warszawa|3       |28 |
+|10        |Reginald |Skoczylas  |reginald.skoczylas@hotmail.com|Londyn  |4       |37 |
+|11        |Oskar    |Szczepański|oskar.szczepanski@yahoo.com   |Londyn  |4       |37 |
+|12        |Walenty  |Fijałkowski|walenty.fijalkowski@yahoo.com |Londyn  |4       |37 |
+|13        |Ksenia   |Janiszewska|ksenia.janiszewska@gmail.com  |Londyn  |4       |26 |
+|14        |Joanna   |Jóźwiak    |joanna.jozwiak@gmail.com      |Londyn  |4       |26 |
+|15        |Kwintyn  |Dec        |kwintyn.dec@hotmail.com       |Londyn  |4       |37 |
+|16        |Beniamin |Jagiełło   |beniamin.jagiello@hotmail.com |Poznań  |5       |26 |
+|17        |Władysław|Stasiak    |wladyslaw.stasiak@gmail.com   |Poznań  |5       |30 |
+|18        |Alfred   |Ciesielski |alfred.ciesielski@hotmail.com |Poznań  |5       |30 |
+|19        |Szymon   |Burzyński  |szymon.burzynski@hotmail.com  |Poznań  |5       |30 |
+|20        |Bruno    |Trojanowski|bruno.trojanowski@gmail.com   |Poznań  |5       |30 |
+|21        |Klaudiusz|Kalisz     |klaudiusz.kalisz@gmail.com    |Poznań  |5       |28 |
