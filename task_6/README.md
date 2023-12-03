@@ -1,4 +1,4 @@
-# Cloud Challenge - `task_3`
+# Cloud Challenge - `task_6`
 
 Dare IT Cloud Challange 2023
 
