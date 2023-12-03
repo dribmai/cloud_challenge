@@ -2,6 +2,8 @@
 
 Dare IT Cloud Challange 2023
 
+Create Cloud SQL instance
+
 ## What is average age of the students?
 select avg(age) from dareit.students s;
 --> answer 30.38
